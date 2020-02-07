@@ -1,0 +1,28 @@
+body {
+	background-color: #00bfff;
+	background-image: url(https://img.pngio.com/money-transparent-png-pictures-free-icons-and-png-backgrounds-cash-money-png-906_556.jpg);
+} 
+#container {
+	height: 525px;
+	width: 360px;
+	margin: 100px auto;
+	background: #808080;
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	text-align: center;
+
+}
+button {
+  text-transform: uppercase;
+  font-weight: bold;
+  display: block;
+  margin: 30px auto;
+  background: #936c6c;
+  border-radius: 5px;
+  width: 200px;
+  height: 50px;
+  font-size: 17px;
+  color: white;
+  }
